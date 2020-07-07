@@ -12,6 +12,7 @@ using namespace std;
 
 static JavaVM *g_currentJVM = nullptr;
 static jclass g_cls = nullptr;
+static jfieldID g_fieldId = nullptr;
 
 static int registerNativeMethods(JNIEnv *env, jclass cls);
 
@@ -40,9 +41,22 @@ extern "C" JNIEXPORT JNICALL jint JNI_OnLoad(JavaVM *vm, void *reserved) {
         LOGE("fail to register native methods for class %s, ret = %d", clsName, ret);
         return -4;
     }
-
-
+    g_fieldId = env->GetFieldID(g_cls, "nativeHandle", "J");
+    if (!g_fieldId) {
+        LOGE("faild to locate fileID");
+        return -5;
+    }
     return JNI_VERSION_1_6;
+}
+
+
+
+static JNINativeMethod g_methods[] = {
+        {"jniInitialize", "(Ljava/lang/String;I)V", }
+};
+
+static int registerNativeMethods(JNIEnv *env, jclass cls) {
+
 }
 
 
