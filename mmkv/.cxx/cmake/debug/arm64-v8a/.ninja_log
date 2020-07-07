@@ -1,0 +1,23 @@
+# ninja log v5
+0	413	1594117933	CMakeFiles/mmkv.dir/native-lib.cpp.o	9d26cf0870cd9224
+414	528	1594117933	/Users/mac/Downloads/Olymic_mmkv/mmkv/build/intermediates/cmake/debug/obj/arm64-v8a/libmmkv.so	31219de8b92fa89c
+2	418	1594118844	CMakeFiles/mmkv.dir/native-bridge.cpp.o	45c48098e3dc316e
+1	446	1594118844	CMakeFiles/mmkv.dir/native-lib.cpp.o	9d26cf0870cd9224
+446	575	1594118844	/Users/mac/Downloads/Olymic_mmkv/mmkv/build/intermediates/cmake/debug/obj/arm64-v8a/libmmkv.so	97ad174cba3edbab
+2	527	1594118929	CMakeFiles/mmkv.dir/MMKVLog.cpp.o	6ebd9ef0464f67e1
+527	628	1594118929	/Users/mac/Downloads/Olymic_mmkv/mmkv/build/intermediates/cmake/debug/obj/arm64-v8a/libmmkv.so	c366d352862e8f2b
+3	1595	1594119323	CMakeFiles/mmkv.dir/native-bridge.cpp.o	45c48098e3dc316e
+2	564	1594119344	CMakeFiles/mmkv.dir/native-bridge.cpp.o	45c48098e3dc316e
+564	657	1594119344	/Users/mac/Downloads/Olymic_mmkv/mmkv/build/intermediates/cmake/debug/obj/arm64-v8a/libmmkv.so	c366d352862e8f2b
+2	714	1594119376	CMakeFiles/mmkv.dir/native-bridge.cpp.o	45c48098e3dc316e
+715	818	1594119376	/Users/mac/Downloads/Olymic_mmkv/mmkv/build/intermediates/cmake/debug/obj/arm64-v8a/libmmkv.so	c366d352862e8f2b
+2	907	1594119845	CMakeFiles/mmkv.dir/native-bridge.cpp.o	45c48098e3dc316e
+2	44	1594120328	CMakeFiles/mmkv.dir/ALog.cpp.o	1c1c9f765ab10ec0
+1	520	1594120329	CMakeFiles/mmkv.dir/native-bridge.cpp.o	45c48098e3dc316e
+520	675	1594120329	/Users/mac/Downloads/Olymic_mmkv/mmkv/build/intermediates/cmake/debug/obj/arm64-v8a/libmmkv.so	a8c1eebb4a1189e2
+1	1579	1594120356	CMakeFiles/mmkv.dir/native-bridge.cpp.o	45c48098e3dc316e
+1579	1770	1594120357	/Users/mac/Downloads/Olymic_mmkv/mmkv/build/intermediates/cmake/debug/obj/arm64-v8a/libmmkv.so	a8c1eebb4a1189e2
+2	531	1594120446	CMakeFiles/mmkv.dir/native-bridge.cpp.o	45c48098e3dc316e
+531	622	1594120446	/Users/mac/Downloads/Olymic_mmkv/mmkv/build/intermediates/cmake/debug/obj/arm64-v8a/libmmkv.so	a8c1eebb4a1189e2
+1	695	1594120866	CMakeFiles/mmkv.dir/native-bridge.cpp.o	45c48098e3dc316e
+695	833	1594120867	/Users/mac/Downloads/Olymic_mmkv/mmkv/build/intermediates/cmake/debug/obj/arm64-v8a/libmmkv.so	a8c1eebb4a1189e2

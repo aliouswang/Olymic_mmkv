@@ -1,0 +1,11 @@
+# ninja log v5
+0	418	1594117934	CMakeFiles/mmkv.dir/native-lib.cpp.o	12c9e1c6871391da
+418	500	1594117934	/Users/mac/Downloads/Olymic_mmkv/mmkv/build/intermediates/cmake/debug/obj/x86_64/libmmkv.so	bfba45b5d15e27ee
+1	519	1594118845	CMakeFiles/mmkv.dir/native-bridge.cpp.o	174485e17a512d0c
+1	548	1594118845	CMakeFiles/mmkv.dir/native-lib.cpp.o	12c9e1c6871391da
+548	635	1594118845	/Users/mac/Downloads/Olymic_mmkv/mmkv/build/intermediates/cmake/debug/obj/x86_64/libmmkv.so	c825b11fe4a84b51
+1	448	1594118930	CMakeFiles/mmkv.dir/MMKVLog.cpp.o	a21bd463c5bb8896
+448	499	1594118930	/Users/mac/Downloads/Olymic_mmkv/mmkv/build/intermediates/cmake/debug/obj/x86_64/libmmkv.so	4b1614bc21b8e1d0
+3	56	1594120330	CMakeFiles/mmkv.dir/ALog.cpp.o	ba46cf5632365e4e
+2	767	1594120331	CMakeFiles/mmkv.dir/native-bridge.cpp.o	174485e17a512d0c
+767	865	1594120331	/Users/mac/Downloads/Olymic_mmkv/mmkv/build/intermediates/cmake/debug/obj/x86_64/libmmkv.so	435d7fba043db01

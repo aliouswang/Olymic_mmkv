@@ -1,0 +1,3 @@
+ninja: Entering directory `/Users/mac/Downloads/Olymic_mmkv/mmkv/.cxx/cmake/debug/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/mmkv.dir/native-bridge.cpp.o
+[2/2] Linking CXX shared library /Users/mac/Downloads/Olymic_mmkv/mmkv/build/intermediates/cmake/debug/obj/arm64-v8a/libmmkv.so

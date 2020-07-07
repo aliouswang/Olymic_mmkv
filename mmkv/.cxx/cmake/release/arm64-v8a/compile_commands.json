@@ -1,0 +1,25 @@
+[
+{
+  "directory": "/Users/mac/Downloads/Olymic_mmkv/mmkv/.cxx/cmake/release/arm64-v8a",
+  "command": "/Users/mac/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/mac/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/mac/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dmmkv_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/mmkv.dir/native-lib.cpp.o -c /Users/mac/Downloads/Olymic_mmkv/mmkv/src/main/cpp/native-lib.cpp",
+  "file": "/Users/mac/Downloads/Olymic_mmkv/mmkv/src/main/cpp/native-lib.cpp"
+},
+
+{
+  "directory": "/Users/mac/Downloads/Olymic_mmkv/mmkv/.cxx/cmake/release/arm64-v8a",
+  "command": "/Users/mac/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/mac/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/mac/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dmmkv_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/mmkv.dir/native-bridge.cpp.o -c /Users/mac/Downloads/Olymic_mmkv/mmkv/src/main/cpp/native-bridge.cpp",
+  "file": "/Users/mac/Downloads/Olymic_mmkv/mmkv/src/main/cpp/native-bridge.cpp"
+},
+
+{
+  "directory": "/Users/mac/Downloads/Olymic_mmkv/mmkv/.cxx/cmake/release/arm64-v8a",
+  "command": "/Users/mac/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/mac/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/mac/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dmmkv_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/mmkv.dir/MMKVLog.cpp.o -c /Users/mac/Downloads/Olymic_mmkv/mmkv/src/main/cpp/MMKVLog.cpp",
+  "file": "/Users/mac/Downloads/Olymic_mmkv/mmkv/src/main/cpp/MMKVLog.cpp"
+},
+
+{
+  "directory": "/Users/mac/Downloads/Olymic_mmkv/mmkv/.cxx/cmake/release/arm64-v8a",
+  "command": "/Users/mac/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android21 --gcc-toolchain=/Users/mac/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/mac/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dmmkv_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC   -o CMakeFiles/mmkv.dir/ALog.cpp.o -c /Users/mac/Downloads/Olymic_mmkv/mmkv/src/main/cpp/ALog.cpp",
+  "file": "/Users/mac/Downloads/Olymic_mmkv/mmkv/src/main/cpp/ALog.cpp"
+}
+]
